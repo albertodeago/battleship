@@ -59,7 +59,7 @@ const logGrid = (grid: Grid): void => {
  * This is the main entry point to start the game as a node CLI application
  */
 const main = async function() {
-    let wannaPlay = await promisedReadline("Hi and welcome in Battleship! Your goal will be to shunk all the ships\n" 
+    let wannaPlay = await promisedReadline("Hi and welcome in Battleship! Your goal will be to sink all the ships\n" 
         + "There will be 3 randomly placed ships, one long 5 squares and two long 4.\n"
         + "Missed shots will be signed with 'o' and hit shots with 'x'.\n\n"
         + "Do you want to start the game? (y / n) ")

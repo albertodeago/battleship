@@ -23,7 +23,7 @@
             <transition name="fade" mode="out-in">
                 <div class="text-center">
                     Welcome to <span class="font-medium">Battleship</span><br>
-                    Your goal is to shung all the ships, there will be 3 randomly placed ships, one long 5 squares and two long 4.<br>
+                    Your goal is to sink all the ships, there will be 3 randomly placed ships, one long 5 squares and two long 4.<br>
                     When you click a cell it will turn blue if you missed, red if you hit a boat. <br>
                     To start a game click the button above. Good luck
                 </div>

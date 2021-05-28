@@ -1,4 +1,4 @@
-# battleships
+# Battleships
 This is a simple Battleship game.  
 The particularity is that following the principles of clean architecture this game is playable both in browser (via nuxt static generated site) and in the CLI via node.js
 

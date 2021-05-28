@@ -129,7 +129,7 @@ class Grid {
     columns: number
 
     /**
-     * actual grid
+     * Actual grid
      */
     grid: Array<Array<Cell>>
 
