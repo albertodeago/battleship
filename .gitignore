@@ -71,6 +71,9 @@ typings/
 # Nuxt generate
 dist
 
+# Generated dist for cli play
+dist-cli
+
 # vuepress build output
 .vuepress/dist
 
