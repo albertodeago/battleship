@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Cell = exports.Coordinates = exports.Shot = exports.Ship = exports.Grid = exports.Game = void 0;
+var Game_1 = require("./Game");
+Object.defineProperty(exports, "Game", { enumerable: true, get: function () { return Game_1.Game; } });
+var Grid_1 = require("./Grid");
+Object.defineProperty(exports, "Grid", { enumerable: true, get: function () { return Grid_1.Grid; } });
+Object.defineProperty(exports, "Ship", { enumerable: true, get: function () { return Grid_1.Ship; } });
+Object.defineProperty(exports, "Shot", { enumerable: true, get: function () { return Grid_1.Shot; } });
+Object.defineProperty(exports, "Coordinates", { enumerable: true, get: function () { return Grid_1.Coordinates; } });
+Object.defineProperty(exports, "Cell", { enumerable: true, get: function () { return Grid_1.Cell; } });
